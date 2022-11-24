@@ -1,4 +1,7 @@
 # zoom-transcript-cleaner
+
+Supports Python 3
+
 Python Script to automatically clean up Zoom transcript for reviewing and further use.
 
 To use add file paths for 2 folders at the top an input and output folder
